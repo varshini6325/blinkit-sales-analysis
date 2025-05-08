@@ -5,61 +5,61 @@ This repository contains a Power BI dashboard project that provides a comprehens
 Objective:
 To analyze and visualize Blinkit's sales data using Power BI, offering business insights related to sales performance, outlet types, item distribution, and customer behavior.
 
-Tool Used:
+Tool Used:   
 
-Power BI Desktop
+Power BI Desktop   
 
-Key Insights:
+Key Insights:   
 
-💰 Total Sales: $1.20M
+💰 Total Sales: $1.20M   
 
-📦 Number of Items Sold: 8,523
+📦 Number of Items Sold: 8,523   
 
-⭐ Average Rating: 3.9
+⭐ Average Rating: 3.9   
 
-🧈 Fat Content Sales:
+🧈 Fat Content Sales:    
 
-Low Fat: $776.32K
+Low Fat: $776.32K   
 
-Regular: $425.36K
+Regular: $425.36K   
 
-📈 Dashboard Features
-Sales by Outlet Type: Comparison of sales and item performance across different store formats.
+📈 Dashboard Features    
+Sales by Outlet Type: Comparison of sales and item performance across different store formats.   
 
-Item Type Sales Breakdown: Identifies which product categories drive the most revenue.
+Item Type Sales Breakdown: Identifies which product categories drive the most revenue.   
 
-Outlet Establishment Year Analysis: Tracks sales by the year each outlet was established.
+Outlet Establishment Year Analysis: Tracks sales by the year each outlet was established.   
 
-Outlet Size & Location Impact: Visualizes how store size and city tier affect performance.
+Outlet Size & Location Impact: Visualizes how store size and city tier affect performance.   
 
-Filter Panel: Enables user-driven exploration by Outlet Type, Size, Location, and Item Type.
+Filter Panel: Enables user-driven exploration by Outlet Type, Size, Location, and Item Type.   
 
-🛠 How to Use
-Download the .pbix Power BI file (add the file to this repo if not yet uploaded).
+🛠 How to Use    
+Download the .pbix Power BI file 
 
-Open the file in Power BI Desktop.
+Open the file in Power BI Desktop.  
 
-Explore interactive charts and filters to gain business insights.
+Explore interactive charts and filters to gain business insights.   
 
 
-📌 Insights Derived
-Supermarket Type1 is the top contributor with $787.55K in sales.
+📌 Insights Derived   
+Supermarket Type1 is the top contributor with $787.55K in sales.   
 
-Grocery stores show high average sales per item.
+Grocery stores show high average sales per item.   
 
-Tier 3 cities lead in sales volume among location tiers.
+Tier 3 cities lead in sales volume among location tiers.   
 
-Low Fat items dominate overall fat content sales.
+Low Fat items dominate overall fat content sales.    
 
-🚀 Future Enhancements
-Integration of time series forecasting for future sales.
+🚀 Future Enhancements   
+Integration of time series forecasting for future sales.   
 
-Inclusion of customer segmentation based on purchase behavior.
+Inclusion of customer segmentation based on purchase behavior.    
+ 
+Adding drill-down capability for outlet-level insights.    
 
-Adding drill-down capability for outlet-level insights.
+👤 Author   
+Sri Varshini   
 
-👤 Author
-Sri Varshini
-
-Data Analyst | Power BI Enthusiast
+Data Analyst | Power BI Enthusiast  
 
